@@ -1,0 +1,25 @@
+div.divApp {
+    width: 204px;
+    background-color: #F0F0F0;
+    padding: 8px;
+    margin: 0px;
+    position: "relative";
+}
+div.divDashedBlueBorder {
+    background-color: #F0F0F0;
+    border: #404040 dashed 1px;
+    margin: 8px 4px;
+    padding: 2px 6px;
+    color: #404040;
+    text-align: end;
+    font-weight: bold;
+    font-family: monospace;
+}
+input.button {
+    width: 40px;
+    margin: 4px;
+    margin: 4px;
+}
+#key0 {
+    width: 92px;
+}
